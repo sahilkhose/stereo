@@ -1,0 +1,1 @@
+This is an implementation of ELAS (Efficient Large Scaele Stereo-matching) with C++. The original author uses SSE instructions for performance enhancenments. We used the normal memory allocation and handling to make it compatible with the modern hardware.
